@@ -1,0 +1,1 @@
+roblox-studio:1+launchmode:build+script:https://www.roblox.com/game/join.ashx?server=88.66.32.221&serverport=1337+avatar
